@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and workspace noise
+.vscode/
+.idea/
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Local secrets and scratch files
+.env
+.env.*
+*.tmp
+*.bak

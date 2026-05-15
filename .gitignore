@@ -12,6 +12,9 @@ desktop.ini
 ~$*.xlsx
 ~$*.pptx
 
+# Reference materials (not for public repo)
+_参考资料/
+
 # Local secrets and scratch files
 .env
 .env.*
